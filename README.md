@@ -11,7 +11,7 @@ A simple web app which extracts colors from images in form of hex codes and also
 3. View the HEX codes and complementary colors.
 
 ## 📡 Live Demo
-[Click here to see it live](https://azraattar.github.io/color-extractor/)
+[Click here to see it live](https://color-extractor-0al8.onrender.com/)
 
 ## 🛠️ Technologies Used
 - HTML, CSS, JavaScript
